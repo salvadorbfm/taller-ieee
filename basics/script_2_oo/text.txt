@@ -1,0 +1,17 @@
+The Go open source project is three years old today.
+
+It's great to look at how far Go has come in those three years. When we launched, Go was an idea backed by two implementations that worked on Linux and OS X. The syntax, semantics, and libraries changed regularly as we reacted to feedback from users and experience with the language.
+
+Since the open source launch, we've been joined by hundreds of external contributors, who have extended and improved Go in myriad ways, including writing a Windows port from scratch. We added a package management system goinstall, which eventually became the go command. We also added support for Go on App Engine. Over the past year we've also given many talks, created an interactive introductory tour and recently we added support for executable examples in package documentation.
+
+Perhaps the most important development in the past year was the launch of the first stable version, Go 1. People who write Go 1 programs can now be confident that their programs will continue to compile and run without change, in many environments, on a time scale of years. As part of the Go 1 launch we spent months cleaning up the language and libraries to make it something that will age well.
+
+We're working now toward the release of Go 1.1 in 2013. There will be some new functionality, but that release will focus primarily on making Go perform even better than it does today.
+
+We're especially happy about the community that has grown around Go: the mailing list and IRC channels seem like they are overflowing with discussion, and a handful of Go books were published this year. The community is thriving. Use of Go in production environments has also taken off, especially since Go 1.
+
+We use Go at Google in a variety of ways, many of them invisible to the outside world. A few visible ones include serving Chrome and other downloads, scaling MySQL database at YouTube, and of course running the Go home page on App Engine. Last year's Thanksgiving Doodle and the recent Jam with Chrome site are also served by Go programs.
+
+Other companies and projects are using Go too, including BBC Worldwide, Canonical, CloudFlare, Heroku, Novartis, SoundCloud, SmugMug, StatHat, Tinkercad, and many others.
+
+Here's to many more years of productive programming in Go. 
