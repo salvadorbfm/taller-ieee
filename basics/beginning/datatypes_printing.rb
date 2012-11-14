@@ -1,6 +1,15 @@
 puts "------------------------------------------"
 puts 'This is a "Good First Program"'    # Using single quote
 # Formatting text...
+textArray = Array.new
+textArray << "HOla"
+textArray << "hey"
+textArray << "Hsdsd"
+textArray << "HOla"
+textArray << "adios"
+textArray << "asas"
+
+puts textArray
 puts "length:" + textArray.length.to_s
 puts "Is length larger than %d? %s" % [9, textArray.length > 9]
 puts "Our object is type of #{textArray.class}"
